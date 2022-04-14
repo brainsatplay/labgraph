@@ -1,0 +1,12 @@
+{
+  "name": "labgraph",
+  "version": "0.0.0",
+  "description": "LabGraph is a framework for rapidly prototyping experimental systems for real-time streaming applications. It is particularly well-suited to real-time neuroscience, physiology and psychology experiments.",
+  "main": "./dist/index.js",
+  "files": [
+    "./dist"
+  ],
+  "author": "Garrett Flynn <garrettmflynn@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "private": false
+}
